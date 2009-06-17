@@ -2,8 +2,8 @@ I'll check this in when I have time.
 
 --
 
-package com.YourApp.client;
 {{{
+package com.YourApp.client;
 import org.cobogw.gwt.user.client.ui.RoundedPanel;
 import com.google.gwt.user.client.ui.Button;
 
