@@ -1,0 +1,1 @@
+Using cobogw's excellent roundedpanel I wrote this simple implementation of a roundedbutton, and thought it might be useful to others.
